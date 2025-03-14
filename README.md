@@ -8,3 +8,5 @@
 [ATIVIDADE4]( https://barrosjp.github.io/atividade04web/)
 
 [ATIVIDADE5]( https://barrosjp.github.io/atividade05web/)
+
+[ATIVIDADE6]( https://barrosjp.github.io/atividade06web/)
