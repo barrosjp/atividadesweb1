@@ -21,5 +21,6 @@
 
 [ATIVIDADE11]( https://barrosjp.github.io/atividade11web/)
 
-[ATIVIDADE13]( https://barrosjp.github.io/atividade12web/)
+[ATIVIDADE12]( https://barrosjp.github.io/atividade12web/)
 
+[ATIVIDADE13]( https://barrosjp.github.io/atividade13web/)
